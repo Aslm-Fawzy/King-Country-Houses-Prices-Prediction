@@ -1,0 +1,64 @@
+Introduction :
+___________________________
+
+
+Online property companies offer valuations of houses using machine learning techniques. The aim of this report is to predict the house sales in King County, Washington State, USA using Multiple Linear Regression (MLR). The dataset consisted of historic data of houses sold between May 2014 to May 2015.
+
+The dataset consists of house prices from King County an area in the US State of Washington, this data also covers Seattle. The dataset was obtained from Kaggle. This data was published/released under CC0: Public Domain. Unfortunately, the user has not indicated the source of the data. Please find the citation and database description in the Glossary and Bibliography.
+The dataset consisted of 21 variables and 21613 observations
+
+
+
+About Column in data :
+__________________________
+
+
+date: Date house was sold
+
+price: Price is prediction target
+
+bedrooms: Number of Bedrooms/House
+
+bathrooms: Number of bathrooms/bedrooms
+
+sqft_living: square footage of the home
+
+sqft_lot: square footage of the lot
+
+floors :Total floors (levels) in house
+
+waterfront :House which has a view to a waterfront
+
+view: Has been viewed
+
+condition :How good the condition is Overall
+
+grade: overall grade given to the housing unit, based on King County grading system
+
+sqft_above :square footage of house apart from basement
+
+sqft_basement: square footage of the basement
+
+yr_built :Built Year
+
+yr_renovated :Year when house was renovated
+
+zipcode:zip code
+
+lat: Latitude coordinate
+
+long: Longitude coordinate
+
+sqft_living15 :Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area
+
+sqft_lot15 :lotSize area in 2015(implies-- some renovations)
+
+
+
+Resource :
+_________________________
+
+
+https://www.kaggle.com/harlfoxem/housesalesprediction
+
+https://www.kaggle.com/swathiachath/kc-housesales-data
