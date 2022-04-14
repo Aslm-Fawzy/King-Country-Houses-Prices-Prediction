@@ -5,6 +5,6 @@
 > **For more information about dataset and problem :**
 https://www.kaggle.com/harlfoxem/housesalesprediction
 >
-> Try Project After Deployment on Herkou  : 
+> **Try Project After Deployment on Herkou  :** 
 https://kc-p.herokuapp.com/
 
